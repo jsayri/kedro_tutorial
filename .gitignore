@@ -57,6 +57,9 @@ atlassian-ide-plugin.xml
 # C extensions
 *.so
 
+# exclude csv files
+*.csv
+
 ### Python template
 # Byte-compiled / optimized / DLL files
 __pycache__/
